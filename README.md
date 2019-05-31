@@ -10,3 +10,6 @@ The [RunFile](https://github.com/poshengw/thesis-emotion-recognition/blob/master
 - **Feature extration**: Local Phase Quantization (LPQ), Pyramid Histogram of Oriented Gradients (PHOG), and Local Binary Patterns (LBP) 
 - **Feature dimensionality reduction**: Principle Component Analysis (PCA).
 - **Classification algorithm**: Multi-classes Support Vector Machine with different kernel analysis and proposed Label Noise Robust framework. 
+
+### Presentation
+- Detail [presentation](https://github.com/poshengw/thesis-emotion-recognition/blob/master/presentation.pdf)
