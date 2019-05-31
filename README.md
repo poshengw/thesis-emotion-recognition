@@ -12,4 +12,4 @@ The [RunFile](https://github.com/poshengw/thesis-emotion-recognition/blob/master
 - **Classification algorithm**: Multi-classes Support Vector Machine with different kernel analysis and proposed Label Noise Robust framework. 
 
 ### Presentation
-- Detail [presentation](https://github.com/poshengw/thesis-emotion-recognition/blob/master/presentation.pdf)
+- Detail [presentation](https://github.com/poshengw/thesis-emotion-recognition/blob/master/Presentation.pdf)
